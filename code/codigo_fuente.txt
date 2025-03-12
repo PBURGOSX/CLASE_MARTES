@@ -1,0 +1,3 @@
+if peso > 8 then
+ suma = suma + peso
+else suma = suma - peso
