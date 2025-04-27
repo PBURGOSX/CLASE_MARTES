@@ -1,2 +1,6 @@
-/imagenes
-juanito.txt 
+imagenes/
+juanito.txt
+
+kaka/ 
+*.txt
+pp.doc
