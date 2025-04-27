@@ -3,3 +3,4 @@ if peso > 8 then
  printf ("la suma es %d" suma)
 else 
  printf ("no se ha superado el tope establecido)
+XXXXXXXXXXXXXXXX
