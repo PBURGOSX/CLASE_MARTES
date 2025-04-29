@@ -4,3 +4,5 @@ if peso > 8 then
 else 
  printf ("no se ha superado el tope establecido)
 XXXXXXXXXXXXXXXX
+
+zzzzzzzzzzzzzzzzzzzzzzzzzz
