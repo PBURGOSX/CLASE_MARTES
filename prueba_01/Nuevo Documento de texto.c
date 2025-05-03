@@ -5,7 +5,7 @@ qqqqqqqqqqqqq
 zapete
 CHUPETE
 
-PUTU
+PUTU DE FUA
 
 PATITO GUAPO
 
