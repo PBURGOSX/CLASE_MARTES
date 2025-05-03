@@ -7,7 +7,8 @@ CHUPETE
 
 PUTU
 
-PATITO feo
+PATITO GUAPO
+
 
 
 
